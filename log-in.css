@@ -1,0 +1,22 @@
+h1{
+    font-style: Helvetica;
+    text-align: center;
+}
+
+
+.login{
+    display: block;
+    display: grid;
+    place-content: center;
+}
+
+.usr{
+    padding: 5px;
+    margin: 3px;
+}
+
+.pas{
+    padding: 5px;
+    margin: 3px;
+}
+

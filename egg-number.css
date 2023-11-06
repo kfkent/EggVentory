@@ -1,0 +1,26 @@
+[class*="row"] {
+    padding: 1rem;
+    background-color: #33b5eb;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 250px;
+    border-radius: 5px;
+
+
+}
+
+.navbar {
+    background-color: rgb(250, 97, 97);
+    font-style: sans;
+
+}
+
+.col {
+    margin-top: 100px;
+    display: grid;
+    place-content: center;
+}
+
+.size {
+    padding: px;
+}
